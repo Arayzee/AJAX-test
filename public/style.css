@@ -1,0 +1,17 @@
+h1 {
+  color: #c6f;
+}
+
+h2 {
+  color: #fc6;
+  border: 5px #f6c dotted;
+  display: inline-block;
+}
+
+button {
+  border-color: #c6f;
+  border-style: solid;
+  background: #c6f;
+  outline: none;
+  color: white;
+}
